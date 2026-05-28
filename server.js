@@ -3,7 +3,7 @@ const express = require("express");
 const cookiesParser = require("cookie-parser");
 
 // import routes
-const cookieRoutes = require("./cookies");
+const cookieRoutes = require("./cookie");
 
 const app = express();
 
